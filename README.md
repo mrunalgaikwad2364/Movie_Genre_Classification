@@ -90,4 +90,4 @@ Project: Movie Genre Classification with Sentiment & Emotion Features
 ## 📬 Contact
 
 Feel free to connect:  
-[LinkedIn](https://www.linkedin.com/in/mrunal-gaikwad) | [GitHub](https://github.com/mrunalgaikwad2364/Movie_Genre_Classification.git)  
+[LinkedIn]([https://www.linkedin.com/in/mrunal-gaikwad](https://www.linkedin.com/in/mrunal-gaikwad-328273300)) | [GitHub](https://github.com/mrunalgaikwad2364/Movie_Genre_Classification.git)  
