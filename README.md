@@ -80,13 +80,6 @@ streamlit run app.py
 
 ---
 
-## 🧑‍💻 Developed For
-
-CodSoft Internship - Machine Learning Intern  
-Project: Movie Genre Classification with Sentiment & Emotion Features
-
----
-
 ## 📬 Contact
 
 Feel free to connect:  
